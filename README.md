@@ -1,34 +1,16 @@
-# second-todo
+# Continuation on the Todo App
 
-## Project setup
-```
-npm install
-```
+## I've continued my learning path and delved into the following techniques and concepts:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### VueX
 
-### Run your tests
-```
-npm run test
-```
+### Animations
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Filters
 
-### Run your unit tests
-```
-npm run test:unit
-```
+### Mixins
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Directives
+
+### And some more..
